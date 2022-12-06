@@ -42,7 +42,8 @@ What would you like to do? You can explore the country or examine the landmarks/
 - China
     - Great Wall of China
 
- -Maldives: Game over, you won.
+ - Maldives
+     - Game over, you won!
 
 The game has a timer and if the person does not finished before the time out , it's game over.
 
