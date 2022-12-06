@@ -14,7 +14,7 @@ The game narratives created and the created challenges are described bellow.
 
 ### Game Map
 
-![Game Map](new_game_map.jpg)
+![Game Map](new_game_map.png)
 
 ### Game Narratives
 
